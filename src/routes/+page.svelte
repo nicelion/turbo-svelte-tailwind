@@ -1,8 +1,5 @@
 <script lang="ts">
-	import { MyCounterButton, MyTestContainer } from "@repo/ui";
-
-
-
+	import { MyCounterButton, MyTestContainer } from '@repo/ui';
 </script>
 
 <h1>Web</h1>
@@ -15,6 +12,5 @@
 	<p class="bg-orange-300 p-3 rounded-md border">Hello</p>
 	<p class="bg-orange-300 p-3 rounded-md border">World</p>
 	<p class="bg-orange-300 p-3 rounded-md border">from</p>
-	<p class="bg-orange-
-	300 p-3 rounded-md border">MyTestContainer</p>
+	<p class="bg-orange-300 p-3 rounded-md border">MyTestContainer</p>
 </MyTestContainer>
